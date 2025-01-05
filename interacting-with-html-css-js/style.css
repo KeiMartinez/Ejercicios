@@ -1,0 +1,26 @@
+img {
+  width: 350px;
+  height: 500px;
+  display: block;
+  margin: 0 auto; 
+}
+
+h1{
+  text-align: center;
+  color: green;
+}
+
+#rojo{
+  text-align: center;
+  color: red;
+}
+
+#azul{
+  text-align: center;
+  color: blue;
+}
+
+#prueba{
+  text-align: center;
+  color: yellowgreen;
+}
